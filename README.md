@@ -12,3 +12,8 @@ To run this project, you will need the following software installed on your syst
 - MySQL 5.7 or higher
 - Composer
 - Laravel 8
+
+## Installation
+To install and run this project on your system, follow these steps:
+
+1 Clone the repository to your local machine:
