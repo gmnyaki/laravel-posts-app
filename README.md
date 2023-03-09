@@ -21,3 +21,14 @@ To install and run this project on your system, follow these steps:
 git clone https://github.com/gmnyaki/laravel-posts-app.git 
 
 ```
+2 Navigate to the project directory:
+```
+cd laravel-posts-app
+
+```
+3 Install the project dependencies using Composer:
+
+```
+composer install
+
+```
