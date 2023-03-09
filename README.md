@@ -73,13 +73,13 @@ The project is structured according to Laravel's conventions:
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 ## Concepts
-This a simple project demonstrating use of techniques such as protecting your pages from cross-site scripting attacks. See **resources/views/posts**  
-Form validation using bootstrap and laravel form requests classes. See **app/Http/Requests**  
-Application optimization using eager loading to avoid unnecessary queries. See **app/http/controllers/Posts/PostController**
-Use of middleware to filter out requests. See **app/http/controllers/Posts/PostController**
-Project structuring .
-Pagination of the query results. See **resources/views/posts**
-Class demonstrating attributes that should be mass-assignable **'app/Models**
+This a simple project demonstrating use of techniques such as protecting your pages from cross-site scripting attacks. See **resources/views/posts**    
+Form validation using bootstrap and laravel form requests classes. See **app/Http/Requests**    
+Application optimization using eager loading to avoid unnecessary queries. See **app/http/controllers/Posts/PostController**  
+Use of middleware to filter out requests. See **app/http/controllers/Posts/PostController**  
+Project structuring.  
+Pagination of the query results. See **resources/views/posts**  
+Class demonstrating attributes that should be mass-assignable and guarded attributes**app/Models**  
 
 
 ## License
