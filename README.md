@@ -1,8 +1,5 @@
 # Laravel Posts App : MVC Pattern Implementation using PHP and Laravel 
 
-![Readme cover](https://user-images.githubusercontent.com/25588619/223936736-69822b57-2b8b-4a73-80b4-05208ca9b0c6.JPG)
-
-
 ## Overview 
 This project is a demonstration of how to implement the Model-View-Controller (MVC) pattern using PHP and Laravel. The MVC pattern is a widely used architectural pattern that separates an application into three interconnected components: the model, the view, and the controller. The model represents the data and business logic of the application, the view represents the user interface, and the controller acts as an intermediary between the model and the view.
 
