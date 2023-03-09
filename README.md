@@ -32,3 +32,29 @@ cd laravel-posts-app
 composer install
 
 ```
+4 Create a copy of the .env.example file and rename it to .env:
+```
+cp .env.example .env
+
+```
+5 Generate an application key:
+```
+php artisan key:generate
+```
+6 Configure the database settings in the .env file:
+```
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=your_database_name
+DB_USERNAME=your_database_username
+DB_PASSWORD=your_database_password
+```
+7 Migrate the database tables:
+```
+php artisan migrate
+```
+8 Start the development server:
+```
+php artisan serve
+```
