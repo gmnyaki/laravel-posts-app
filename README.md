@@ -61,7 +61,7 @@ php artisan serve
 ## Usage
 To use the application, open a web browser and navigate to the URL(http://blog.test) displayed in the terminal when you started the development server. You will see a login, register or create a post. First, register and account to be able to post on the app. Once and account is created successfully, you will be redirected to a dashboard, from here you will see a link to create posts or view posts. Type your post and click save. You can only delete or edit your own posts using the links provided.
 ## Project Structure
-The project is structured according to Laravel's conventions:  
+The project is structured according to Laravel's conventions:    
 **'app/Models**: Contains the Eloquent models for the application.  
 **app/Http/Controllers**: Contains the controllers for the application.  
 **app/Http/Requests**: Contains the form request validation classes for the application.  
