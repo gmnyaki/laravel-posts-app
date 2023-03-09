@@ -17,4 +17,7 @@ To run this project, you will need the following software installed on your syst
 To install and run this project on your system, follow these steps:
 
 1 Clone the repository to your local machine:
-``` git clone https://github.com/gmnyaki/laravel-posts-app.git ```
+```
+git clone https://github.com/gmnyaki/laravel-posts-app.git 
+
+```
